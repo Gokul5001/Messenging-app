@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif; /* Choose your preferred font here */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f2f2f2; /* Change the background color to your liking */
+  color: #333; /* Change the text color to your liking */
+}
+
+code {
+  font-family: 'Courier New', monospace; /* Choose your preferred monospace font here */
+  background-color: #f7f7f7; /* Change the code background color to your liking */
+  color: rgb(49, 93, 213); /* Change the code text color to your liking */
+  padding: 5px; /* Add some padding to the code for better readability */
+  border: 1px solid #ccc; /* Add a border around the code */
+  border-radius: 4px; /* Add rounded corners to the code block */
+}
